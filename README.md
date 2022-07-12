@@ -37,3 +37,4 @@
 > password: **admin**
 
 admin: Narendra
+user1: Srinivas
